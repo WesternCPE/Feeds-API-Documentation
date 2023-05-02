@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "apidoc -i ./../WCPE-feeds-slim-api/app/ -o . -c ./../WCPE-API-Plugin/apidoc.json"
+    "generate": "apidoc -i ./../WCPE-feeds-slim-api/app/ -o . -c ./apidoc.json"
   },
   "repository": {
     "type": "git",
